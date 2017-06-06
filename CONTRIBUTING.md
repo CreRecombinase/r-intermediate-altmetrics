@@ -26,7 +26,7 @@ You also agree to abide by our
     please see [the list of issues for this repository][issues],
     or for [our other lessons][swc-lessons].
     Comments on issues and reviews of pull requests are equally welcome.
-
+ 
 ## Other Resources
 
 1.  This lesson is based on the template found at
